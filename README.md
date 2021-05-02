@@ -1,6 +1,6 @@
 # CreateModpackLite
 
-Create but it's lite
+CreateModpack but it's lite
 
 Modloader : Forge   
 Version : 1.16.5   
